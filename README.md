@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Itenash
+# 👋 Hi, I'm fenet
 
 I'm a passionate **Full Stack Developer** from Addis Ababa, Ethiopia 🇪🇹  
 I specialize in building scalable web and mobile applications, crafting APIs, and deploying cloud-native solutions.
